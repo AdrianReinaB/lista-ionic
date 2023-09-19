@@ -1,0 +1,8 @@
+{
+  "name": "lista_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0194509a"
+}
